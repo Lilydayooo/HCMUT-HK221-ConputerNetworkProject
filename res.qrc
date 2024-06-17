@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/addfriend.png</file>
+    <file>image/exit.png</file>
+    <file>image/human.jpg</file>
+    <file>image/setpicture.jpg</file>
+    <file>image/welcome.jpg</file>
+    <file>image/welcome2.jpg</file>
+  </qresource>
+</RCC>
